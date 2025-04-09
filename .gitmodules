@@ -5,6 +5,3 @@
 [submodule "sqlparseR"]
 	path = sqlparseR
 	url = https://github.com/cran/sqlparseR
-[submodule "triact"]
-	path = triact
-	url = https://github.com/cran/triact
